@@ -8,9 +8,9 @@ public class arrQuiz1 {
 		boolean tmp = ((arr1[0]==arr2[0]) && (arr1[1]==arr2[1]) && (arr1[2]==arr2[2]));
 
 		if (tmp) {
-			System.out.println("같아유");
+			System.out.println("같다");
 		} else {
-			System.out.println("달라유");
+			System.out.println("다르다");
 		}
 	}
 
